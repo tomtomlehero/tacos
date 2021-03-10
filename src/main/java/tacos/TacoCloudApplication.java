@@ -10,4 +10,8 @@ public class TacoCloudApplication {
     SpringApplication.run(TacoCloudApplication.class, args); // <2>
   }
 
+  public void soSprint01() {
+    System.out.println("sprint 01 done");
+  }
+
 }
