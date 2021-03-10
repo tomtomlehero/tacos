@@ -15,4 +15,8 @@ public class TacoCloudApplication {
     System.out.println("sprint 01 done");
   }
 
+  public void soSprint02() {
+    System.out.println("sprint 02 done");
+  }
+
 }
